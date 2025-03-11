@@ -5,10 +5,10 @@ from aiogram.filters import Command
 from aiogram.types import Message
 
 # Telegram bot tokenini olish (Render uchun muhit o'zgaruvchisi)
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8014932469:AAFsZHhQKhaqDqlwtKJanPuwVZ6Z85K8xbU")
 
 # Bot va dispatcher yaratish
-bot = Bot(token=TOKEN)
+bot = Bot(token=8014932469:AAFsZHhQKhaqDqlwtKJanPuwVZ6Z85K8xbU)
 dp = Dispatcher()
 
 # /start buyrug'i
